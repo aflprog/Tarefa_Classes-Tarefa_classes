@@ -1,5 +1,5 @@
 public class Aluno {
-    private String nomeAluno="Amadeu";
+    private String nomeAluno="  ";
 
 
     private int idade;
