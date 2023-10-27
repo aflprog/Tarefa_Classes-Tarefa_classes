@@ -9,8 +9,8 @@ public class Classe_Principal {
             Aluno.setIdade(40);
 
             System.out.println("Aluno: "+Aluno.getNomeAluno()); /* escreve o nome do aluno
-             na tele ( pulei linha só pra usar esse tipo de comentário, desupe a bagunça, vou melhorar */
+             na tela (pulei linha só pra usar esse tipo de comentário, desculpe pela bagunça, vou melhorar)*/
 
-            System.out.println("Idade: "+Aluno.getIdade()+" anos");// escreve a idade do aluno na tela
+            System.out.println("Idade: "+Aluno.getIdade()+" anos");// escreve a idade do aluno na tela.
     }
 }
